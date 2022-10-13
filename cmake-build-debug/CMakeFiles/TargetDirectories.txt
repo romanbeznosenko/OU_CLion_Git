@@ -1,0 +1,3 @@
+/Users/romanbeznosenko/CLionProjects/github/cmake-build-debug/CMakeFiles/github.dir
+/Users/romanbeznosenko/CLionProjects/github/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/romanbeznosenko/CLionProjects/github/cmake-build-debug/CMakeFiles/rebuild_cache.dir
